@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "liquidcrystal.h": "c",
+        "arduino.h": "c",
+        "pins_arduino.h": "c"
+    }
+}
